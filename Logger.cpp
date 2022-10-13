@@ -1,8 +1,4 @@
 /*
-Name: Balaaj Arbab
-Student ID: 251055771
-Date: 18th September 2022
-
 A Logger class that implements logging functionality using an SQLite database to store log messages.
 Multiple tables are used to keep track of logging for different applications, where the name of the application is the name of a table.
 */

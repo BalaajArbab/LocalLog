@@ -1,8 +1,4 @@
 /*
-Name: Balaaj Arbab
-Student ID: 251055771
-Date: 18th September 2022
-
 A Log Message container class that encapsulates all the information/metadata for a stored log message. Such as timestamp and message content.
 */
 

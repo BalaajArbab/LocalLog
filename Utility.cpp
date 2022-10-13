@@ -1,8 +1,4 @@
 /*
-Name: Balaaj Arbab
-Student ID: 251055771
-Date: 18th September 2022
-
 Provides several helpful utility and miscellaneous functions.
 */
 
